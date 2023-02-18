@@ -11,7 +11,7 @@ Create a chess board with the following way by passing "n" number of columns in 
 ```
 pq=PQ(8)#created chess board of 8 columns
 ```
-# Returning diagonal indices:
+# Returning indices:
 # 1)Return left upper diagonal of x,y
 ```
 pq.dialu(4,4)#returns index position of left upper diagonals of 4,4
@@ -44,7 +44,7 @@ pq.linright(4,4)#returns index position of right indices of 4,4
 ```
 pq.linlower(4,4)#returns index position of lower indices of 4,4
 ```
-# Filling diagonal indices:
+# Filling indices:
 # 1)Fill left upper diagonal of x,y
 ```
 pq.fill_lu(4,4)#fills index position of left upper diagonals of 4,4 with 1 on logic_chess_board array
