@@ -1,6 +1,8 @@
 # possibleQueen
 It provides the knowledge/logics how or how many "Queen" can be placed on a chess board so that no two queens cross each other.
 hi,im IN,a junior computer-mathematics developer.
+# Install required Module
+use ```pip install -r requirements.txt```
 # Import Module:
 Import module "possiblequeen"
 ```
